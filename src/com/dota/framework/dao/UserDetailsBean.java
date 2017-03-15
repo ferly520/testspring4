@@ -12,8 +12,8 @@ import org.springframework.security.core.userdetails.UserDetails;
 public class UserDetailsBean implements UserDetails {
 	/**
 	 * 
-	 * 用戶名
-	 */
+	 * 用戶名规范	
+ */
 
 	private String username;
 
